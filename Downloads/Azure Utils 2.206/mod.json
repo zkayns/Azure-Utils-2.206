@@ -1,0 +1,45 @@
+{
+	"geode": "3.2.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "azurebluet.azure_utils_2.206",
+	"name": "Azure Utils 2.206",
+	"version": "v1.0.0",
+	"developer": "AzureBluet",
+	"description": "Helpful utilities for Geometry Dash",
+	"settings": {
+        "socialsconfirmation": {
+            "name": "Confirm Opening Socials",
+            "description": "Asks for confirmation when clicking on a social media link in MenuLayer.",
+            "type": "bool",
+            "default": true
+        },
+		"disablemenukill": {
+            "name": "Disable Menu Kills",
+            "description": "Disables killing the players in MenuGameLayer.",
+            "type": "bool",
+            "default": false
+        },
+		"freezeattempts": {
+            "name": "Freeze Attempts",
+            "description": "Freezes the attempt counter.",
+            "type": "bool",
+            "default": false
+        },
+		"noclip": {
+            "name": "Noclip",
+            "description": "Disables dying.",
+            "type": "bool",
+            "default": false
+        }
+	},
+    "resources": {
+        "sprites": [
+            "sprites/azureutils.png"
+        ]
+    }
+}
