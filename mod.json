@@ -6,7 +6,7 @@
 		"mac": "2.206",
 		"ios": "2.206"
 	},
-	"id": "azurebluet.azure_utils_2.206",
+	"id": "azurebluet.azure_utils",
 	"name": "Azure Utils 2.206",
 	"version": "v1.0.0",
 	"developer": "AzureBluet",
